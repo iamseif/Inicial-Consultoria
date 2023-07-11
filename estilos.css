@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+body {
+  background-color: lightgray;
+}
+
+/*# sourceMappingURL=estilos.css.map */
